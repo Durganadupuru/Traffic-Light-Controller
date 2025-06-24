@@ -8,7 +8,7 @@
 
 module testbench;
 
-reg clk;`timescale 1ns / 1ps
+reg clk;
 
 module testbench;
 
